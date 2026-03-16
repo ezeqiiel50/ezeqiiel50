@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">Walter Ezequiel Coronel</h1>
 
-<!--
-**ezeqiiel50/ezeqiiel50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Backend .NET Developer</strong> · Microservicios · APIs REST · RabbitMQ · Docker
+  <br/>
+  Tucumán, Argentina · Remoto
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://linkedin.com/in/walter-ezequiel-coronel">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:ezeqiiel50@gmail.com">ezeqiiel50@gmail.com</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 Sobre mí
+
+Llevo más de 5 años escribiendo código backend en .NET y cada vez me gusta más el camino. Hoy trabajo con microservicios, RabbitMQ y Docker, pero también me muevo con SQL Server, PostgreSQL, ReactJS y algo de Python cuando el proyecto lo pide. Lo que realmente me impulsa es resolver problemas de forma elegante.
+
+---
+
+## 🛠 Stack técnico
+
+| Área | Tecnologías |
+|---|---|
+| **Backend** | C# · .NET Framework · .NET Core · ASP.NET Core |
+| **Arquitectura** | Microservicios · REST · SOLID |
+| **Mensajería** | RabbitMQ |
+| **Bases de datos** | SQL Server · PostgreSQL · T-SQL · Stored Procedures |
+| **Acceso a datos** | Entity Framework · Dapper |
+| **DevOps** | Docker · GitLab CI · Azure DevOps |
+| **Frontend** | ReactJS · JavaScript · HTML · CSS |
+| **Otros** | Python · Django · Fundamentos de IA/ML |
+
+---
+
+## 🎓 Educación y certificaciones
+
+- **Técnico Universitario en Programación** — UTN FRT
+- Inteligencia Artificial — Universidad de Palermo (2025)
+- Python — CoderHouse (2023)
+- React JS — UTN BA (2020–2021)
+- JavaScript & .NET — UTN FRR (2020)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ezeqiiel50&show_icons=true&theme=dark&hide_border=true&count_private=true" height="130"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezeqiiel50&layout=compact&theme=dark&hide_border=true" height="130"/>
+</p>
