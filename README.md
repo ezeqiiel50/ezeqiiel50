@@ -6,11 +6,6 @@
   Tucumán, Argentina · Remoto
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/walter-ezequiel-coronel">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:ezeqiiel50@gmail.com">ezeqiiel50@gmail.com</a>
-</p>
-
 ---
 
 ## 🧑‍💻 Sobre mí
